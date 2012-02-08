@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{9D5E4427-EDC5-A0FA-37F0-923667433139}") = "WakaWaka", "Assembly-CSharp-vs.csproj", "{0B76E5AF-7425-E711-F669-AD49A3138CBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B76E5AF-7425-E711-F669-AD49A3138CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B76E5AF-7425-E711-F669-AD49A3138CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B76E5AF-7425-E711-F669-AD49A3138CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B76E5AF-7425-E711-F669-AD49A3138CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

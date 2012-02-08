@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PointsController.cs">
+    <Files>
+      <File FileName="../ORGANIZACION/Trabajo/Flas/Clippox/ClippoxExodus/Assets/Coding/AI/BaseAI.cs" Line="14" Column="2" />
+      <File FileName="Assets/Scripts/Topo.cs" Line="105" Column="41" />
+      <File FileName="Assets/Scripts/PointsController.cs" Line="32" Column="136" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
